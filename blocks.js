@@ -160,6 +160,21 @@ Blockly.Blocks['block_type'] = {
   }
 };
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Blockly.Blocks['simplelogin'] = {
   init: function() {
     this.appendValueInput("slot1")
@@ -181,6 +196,20 @@ Blockly.Blocks['simplelogin'] = {
     this.setHelpUrl('http://www.example.com/');
   }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Blockly.Blocks['simpleloginX'] = {
   init: function() {

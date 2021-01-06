@@ -140,6 +140,20 @@ Blockly.JavaScript['block_type'] = function(block) {
 };
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Blockly.JavaScript['simplelogin'] = function(block) {
   var value_slot1 = Blockly.JavaScript.valueToCode(block, 'slot1', Blockly.JavaScript.ORDER_ATOMIC);
   var value_slot2 = Blockly.JavaScript.valueToCode(block, 'slot2', Blockly.JavaScript.ORDER_ATOMIC);
@@ -148,19 +162,10 @@ Blockly.JavaScript['simplelogin'] = function(block) {
   // TODO: Assemble JavaScript into code variable.
   //var code = value_slot1 + ";" + value_slot2 +";" + value_slot3+";" + value_slot4;
  // var code = value_slot1  + value_slot2 + value_slot3+ value_slot4;
-  
  var codeX ="var oShell = new ActiveXObject('Shell.Application');var commandtoRun = 'C:\\\\Users\\\\cal\\\\OneDrive\\\\CODE\\\\AUTOMATION\\\\TestWhiteCalculator\\\\TestWhiteCalculator\\\\TestWhiteCalculator\\\\bin\\\\Debug\\\\TestWhiteCalculator.exe';var commandParms = '1'; oShell.ShellExecute(commandtoRun, commandParms);";  
- 
- 
  var code ="alert('Logging In'); var oShell = new ActiveXObject('Shell.Application');var commandtoRun = 'C:\\\\Users\\\\cal\\\\OneDrive\\\\CODE\\\\AUTOMATION\\\\TestWhiteCalculator\\\\TestWhiteCalculator\\\\TestWhiteCalculator\\\\bin\\\\Debug\\\\TestWhiteCalculator.exe';var commandParms = '1'; oShell.ShellExecute(commandtoRun, commandParms);";  
-  
-  
-
-
    //var code = value_slot1  ;
     // return 'alert("' + code+ '");';
-
-
      return code;
 };
 Blockly.JavaScript['simpleloginX'] = function(block) {
@@ -169,6 +174,21 @@ Blockly.JavaScript['simpleloginX'] = function(block) {
   var code = value_name;
      return 'alert("' + code+ '");';
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Blockly.JavaScript['page_text'] = function(block) {
