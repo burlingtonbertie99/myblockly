@@ -1,0 +1,22 @@
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Release\TestWhiteCalculator.exe.config
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Release\TestWhiteCalculator.exe
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Release\TestWhiteCalculator.pdb
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Release\Castle.Core.dll
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Release\TestStack.White.dll
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Release\Castle.Core.xml
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Release\TestStack.White.pdb
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Release\TestStack.White.xml
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\obj\Release\TestWhiteCalculator.exe
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\obj\Release\TestWhiteCalculator.pdb
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\obj\Release\TestWhiteCalculator.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - 32 bits\TestWhiteCalculator\bin\Release\TestWhiteCalculator.exe.config
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - 32 bits\TestWhiteCalculator\obj\Release\TestWhiteCalculator.exe
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - 32 bits\TestWhiteCalculator\obj\Release\TestWhiteCalculator.pdb
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - 32 bits\TestWhiteCalculator\bin\Release\TestWhiteCalculator.exe
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - 32 bits\TestWhiteCalculator\bin\Release\TestWhiteCalculator.pdb
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - 32 bits\TestWhiteCalculator\bin\Release\Castle.Core.dll
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - 32 bits\TestWhiteCalculator\bin\Release\TestStack.White.dll
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - 32 bits\TestWhiteCalculator\bin\Release\Castle.Core.xml
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - 32 bits\TestWhiteCalculator\bin\Release\TestStack.White.pdb
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - 32 bits\TestWhiteCalculator\bin\Release\TestStack.White.xml
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - 32 bits\TestWhiteCalculator\obj\Release\TestWhiteCalculator.csprojResolveAssemblyReference.cache

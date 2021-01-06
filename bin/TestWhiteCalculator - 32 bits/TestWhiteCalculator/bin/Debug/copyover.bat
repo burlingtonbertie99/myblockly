@@ -1,0 +1,1 @@
+xcopy /Y *.* "C:\Users\admin\Desktop\AUTO_CKMS\"

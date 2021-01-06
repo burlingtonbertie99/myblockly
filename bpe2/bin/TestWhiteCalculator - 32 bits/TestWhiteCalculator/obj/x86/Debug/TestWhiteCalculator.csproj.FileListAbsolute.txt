@@ -1,0 +1,14 @@
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Debug\TestWhiteCalculator.exe.config
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Debug\TestWhiteCalculator.exe
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Debug\TestWhiteCalculator.pdb
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Debug\Castle.Core.dll
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Debug\TestStack.White.dll
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Debug\Castle.Core.xml
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Debug\TestStack.White.pdb
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Debug\TestStack.White.xml
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.csprojResolveAssemblyReference.cache
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.exe
+C:\Users\cal\OneDrive\CODE\AUTOMATION\TestWhiteCalculator\TestWhiteCalculator - Copy\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.pdb
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - Copy\TestWhiteCalculator\bin\Debug\TestWhiteCalculator.exe.config
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - Copy\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.exe
+C:\Users\admin\Desktop\AUTO_CKMS\TestWhiteCalculator - Copy\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.pdb
